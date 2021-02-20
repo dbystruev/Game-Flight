@@ -2,6 +2,9 @@
 
 Flight Game for Moscow Digital Academy Students
 
+* [Webinar 18.02.2021](https://ios.m-d-a.ru/180221)
+* [Webinar 19.02.2021](https://ios.m-d-a.ru/190221)
+
 # Installation
 
 Use Xcode 12 to install
